@@ -1,5 +1,5 @@
-# React Redux Skeleton
-This is a skeleton project for building React Redux applications. It uses Redux Thunk middleware for asyncronous actions.
+# React Redux Choropleth
+This is a React Redux application for presenting a choropleth. This is a project for freeCodeCamp.
 
 ## Starting up
 After cloning this repo you should run `npm install`to install all the dependencies.
